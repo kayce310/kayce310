@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&height=35&lines=Building+what+I+need%2C+with+AI's+help." alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kayce310&color=0F172A&style=for-the-badge&label=PROFILE+VIEWS" height="28" style="vertical-align:middle"/>
-  <span style="margin: 0 8px; color: #334155;">|</span>
-  <a href="https://www.linkedin.com/in/kayce310/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="vertical-align:middle"/></a>
+  <img src="https://komarev.com/ghpvc/?username=kayce310&color=0F172A&style=for-the-badge&label=PROFILE+VIEWS" height="28"/>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/kayce310/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
 </p>
 
 </div>
@@ -25,41 +25,44 @@ FreeRoute exists because I needed a simple way to use multiple free AI providers
 
 ### 📦 Featured Projects
 
-<!-- row 1 -->
-<p>
-  <a href="https://github.com/kayce310/FreeRoute" style="display:inline-block; text-decoration:none; color:inherit; vertical-align:top; width:calc(50% - 8px);">
-    <sub style="display:block; background:#0F172A; border:1px solid #1E293B; border-radius:10px; padding:16px; margin:4px; text-align:left;">
-      <b>🔀 FreeRoute</b>
-      <br/><sub>Public · TypeScript · Node.js · SQLite</sub>
-      <br/><sub style="color:#94A3B8;">A flexible routing system with clean architecture and bilingual support.</sub>
-    </sub>
-  </a>
-  <a style="display:inline-block; text-decoration:none; color:inherit; vertical-align:top; width:calc(50% - 8px);">
-    <sub style="display:block; background:#0F172A; border:1px solid #1E293B; border-radius:10px; padding:16px; margin:4px; text-align:left;">
-      <b>🤖 AI-Agent</b>
-      <br/><sub>Private · TypeScript</sub>
-      <br/><sub style="color:#94A3B8;">A framework I use for automating dev tasks with AI agents.</sub>
-    </sub>
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<!-- row 2 -->
-<p>
-  <a style="display:inline-block; text-decoration:none; color:inherit; vertical-align:top; width:calc(50% - 8px);">
-    <sub style="display:block; background:#0F172A; border:1px solid #1E293B; border-radius:10px; padding:16px; margin:4px; text-align:left;">
-      <b>✈️ OVAP-X1-Framework</b>
-      <br/><sub>Private · C++ · UAV · PX4</sub>
-      <br/><sub style="color:#94A3B8;">An installer integrating a UAV into PX4-Autopilot.</sub>
-    </sub>
-  </a>
-  <a style="display:inline-block; text-decoration:none; color:inherit; vertical-align:top; width:calc(50% - 8px);">
-    <sub style="display:block; background:#0F172A; border:1px solid #1E293B; border-radius:10px; padding:16px; margin:4px; text-align:left;">
-      <b>🎮 OVAP-X1-Flight-Control</b>
-      <br/><sub>Private · MATLAB</sub>
-      <br/><sub style="color:#94A3B8;">Flight control system for the OVAP-X1.</sub>
-    </sub>
-  </a>
-</p>
+[**🔀 FreeRoute**](https://github.com/kayce310/FreeRoute)
+<sub>Public · TypeScript · Node.js · SQLite</sub>
+
+> A flexible routing system with clean architecture and bilingual support.
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI-Agent**
+<sub>Private · TypeScript</sub>
+
+> A framework I use for automating dev tasks with AI agents.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**✈️ OVAP-X1-Framework**
+<sub>Private · C++ · UAV · PX4</sub>
+
+> An installer integrating a UAV into PX4-Autopilot.
+
+</td>
+<td width="50%" valign="top">
+
+**🎮 OVAP-X1-Flight-Control**
+<sub>Private · MATLAB</sub>
+
+> Flight control system for the OVAP-X1.
+
+</td>
+</tr>
+</table>
 
 <hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #00D9FF33, #00D9FF, #00D9FF33, transparent); margin: 2rem auto; width: 60%;" />
 
