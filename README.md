@@ -29,15 +29,17 @@ FreeRoute exists because I needed a simple way to use multiple free AI providers
 <tr>
 <td valign="top" width="50%">
 
-[**🔀 FreeRoute**](https://github.com/kayce310/FreeRoute)
-<sub>Public · TypeScript · Node.js · SQLite</sub>
+**🔀 [FreeRoute](https://github.com/kayce310/FreeRoute)**
+<small>Public · TypeScript · Node.js · SQLite</small>
+
 A flexible routing system with clean architecture and bilingual support.
 
 </td>
 <td valign="top" width="50%">
 
 **🤖 AI-Agent**
-<sub>Private · TypeScript</sub>
+<small>Private · TypeScript</small>
+
 A framework I use for automating dev tasks with AI agents.
 
 </td>
@@ -46,14 +48,16 @@ A framework I use for automating dev tasks with AI agents.
 <td valign="top" width="50%">
 
 **✈️ OVAP-X1-Framework**
-<sub>Private · C++ · UAV · PX4</sub>
+<small>Private · C++ · UAV · PX4</small>
+
 An installer integrating a UAV into PX4-Autopilot.
 
 </td>
 <td valign="top" width="50%">
 
 **🎮 OVAP-X1-Flight-Control**
-<sub>Private · MATLAB</sub>
+<small>Private · MATLAB</small>
+
 Flight control system for the OVAP-X1.
 
 </td>
